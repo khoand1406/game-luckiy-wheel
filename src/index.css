@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Fraunces:opsz,wght@9..144,700;9..144,800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color: #17332a; background: #f8f3e8; font-synthesis: none; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: #f8f3e8; }
+button, input { font: inherit; }
+button:focus-visible, input:focus-visible { outline: 3px solid #e2a83b; outline-offset: 3px; }
+
+.paper-grain {
+  background-image:
+    radial-gradient(circle at 15% 20%, rgba(226,168,59,.16) 0 1px, transparent 1.5px),
+    radial-gradient(circle at 80% 65%, rgba(40,88,72,.10) 0 1px, transparent 1.5px);
+  background-size: 24px 24px, 31px 31px;
+}
+.answer-card { transition: transform .18s ease, border-color .18s ease, background-color .18s ease; }
+.answer-card:not(:disabled):hover { transform: translateY(-2px); }
+.safe-bottom { padding-bottom: max(1.5rem, env(safe-area-inset-bottom)); }

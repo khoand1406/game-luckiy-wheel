@@ -1,0 +1,75 @@
+{
+  "crossword": {
+    "keyword": "GIADINH",
+    "title": "Mật mã Tổ ấm",
+    "rows": [
+      { "id": 1, "answer": "GIÁO DỤC", "cells": "GIAODUC", "keyIndex": 0, "clue": "Chức năng giúp hình thành nhân cách, đạo đức và lối sống của mỗi thành viên.", "explain": "Nuôi dưỡng và giáo dục là chức năng cơ bản, có ảnh hưởng lâu dài, toàn diện đến mỗi người." },
+      { "id": 2, "answer": "BÌNH ĐẲNG", "cells": "BINHDANG", "keyIndex": 1, "clue": "Nguyên tắc tiến bộ trong quan hệ vợ chồng, thể hiện quyền và nghĩa vụ ngang nhau.", "explain": "Hôn nhân tiến bộ gắn với một vợ, một chồng và vợ chồng bình đẳng." },
+      { "id": 3, "answer": "GIA ĐÌNH", "cells": "GIADINH", "keyIndex": 2, "clue": "Một hình thức cộng đồng xã hội đặc biệt, là tế bào của xã hội.", "explain": "Gia đình được hình thành chủ yếu trên cơ sở hôn nhân, huyết thống và nuôi dưỡng." },
+      { "id": 4, "answer": "NUÔI DƯỠNG", "cells": "NUOIDUONG", "keyIndex": 4, "clue": "Hoạt động chăm sóc thành viên cả về vật chất lẫn tinh thần, không thể bị xã hội thay thế hoàn toàn.", "explain": "Quan hệ nuôi dưỡng vừa là trách nhiệm, nghĩa vụ, vừa là quyền lợi thiêng liêng giữa các thành viên." },
+      { "id": 5, "answer": "TÌNH CẢM", "cells": "TINHCAM", "keyIndex": 1, "clue": "Nhu cầu tâm sinh lý thường xuyên mà gia đình có chức năng thỏa mãn và duy trì.", "explain": "Gia đình là chỗ dựa tình cảm và nơi nương tựa tinh thần của mỗi cá nhân." },
+      { "id": 6, "answer": "HÔN NHÂN", "cells": "HONNHAN", "keyIndex": 2, "clue": "Quan hệ giữa vợ và chồng, là cơ sở pháp lý hình thành các quan hệ khác trong gia đình.", "explain": "Hôn nhân là một trong hai quan hệ cơ bản tạo nên gia đình, bên cạnh huyết thống." },
+      { "id": 7, "answer": "HẠNH PHÚC", "cells": "HANHPHUC", "keyIndex": 0, "clue": "Giá trị mà tổ ấm mang lại, đồng thời là mục tiêu quan trọng của gia đình văn hóa.", "explain": "Gia đình là tổ ấm mang lại sự bình yên, hài hòa và động lực phát triển cho mỗi thành viên." }
+    ]
+  },
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "Ai sẽ nghỉ việc?",
+      "situation": "Một cặp vợ chồng có con nhỏ. Người vợ có thu nhập cao hơn, nhưng hai bên nội ngoại đều cho rằng vợ phải nghỉ việc để chăm con.",
+      "mission": "Trong 60 giây, đội hãy đề xuất cách giải quyết vừa bảo đảm hạnh phúc gia đình vừa thể hiện nguyên tắc tiến bộ.",
+      "rubric": ["Nêu được bình đẳng vợ chồng", "Chia sẻ trách nhiệm nuôi dưỡng", "Tôn trọng lựa chọn nghề nghiệp", "Có giải pháp khả thi"],
+      "theory": "Vợ chồng có quyền và nghĩa vụ ngang nhau; cùng thống nhất giải quyết việc chung, nuôi dạy con và tôn trọng nhu cầu chính đáng của mỗi người."
+    },
+    {
+      "id": 2,
+      "title": "Bữa cơm không màn hình",
+      "situation": "Các thành viên trong một gia đình ngày càng ít trò chuyện vì công việc, học tập và điện thoại. Mối quan hệ trở nên lỏng lẻo.",
+      "mission": "Thiết kế một “nghi thức gia đình” có thể thực hiện hằng tuần để củng cố tình cảm mà không áp đặt.",
+      "rubric": ["Tăng giao tiếp trực tiếp", "Tôn trọng lịch cá nhân", "Có tính duy trì lâu dài", "Gắn với chức năng tình cảm"],
+      "theory": "Duy trì tình cảm là chức năng thường xuyên; khi tình cảm gia đình rạn nứt, quan hệ tình cảm trong xã hội cũng có nguy cơ bị phá vỡ."
+    },
+    {
+      "id": 3,
+      "title": "Giữ hay bỏ truyền thống?",
+      "situation": "Một gia đình tranh luận: người lớn muốn giữ mọi phong tục cũ, người trẻ muốn bỏ toàn bộ để sống “hiện đại”.",
+      "mission": "Đưa ra nguyên tắc chọn lọc để cả hai thế hệ có thể đồng thuận.",
+      "rubric": ["Kế thừa giá trị tốt đẹp", "Nhận diện hủ tục", "Tiếp thu tiến bộ phù hợp", "Hài hòa lợi ích các thế hệ"],
+      "theory": "Xây dựng gia đình Việt Nam cần kế thừa giá trị truyền thống tốt đẹp, khắc phục hủ tục và tiếp thu tiến bộ của nhân loại."
+    },
+    {
+      "id": 4,
+      "title": "Con một và trách nhiệm",
+      "situation": "Một gia đình chỉ có một người con. Cả cha mẹ lẫn con đều lo lắng về việc chăm sóc người cao tuổi trong tương lai.",
+      "mission": "Đề xuất ba giải pháp ở cấp gia đình và xã hội để giảm áp lực nhưng vẫn giữ trách nhiệm giữa các thế hệ.",
+      "rubric": ["Chia sẻ trách nhiệm", "Có hỗ trợ xã hội", "Tôn trọng người cao tuổi", "Không định kiến giới"],
+      "theory": "Gia đình cần bảo vệ, chăm sóc trẻ em và người cao tuổi; đồng thời xây dựng bình đẳng giữa con trai và con gái trong trách nhiệm chăm sóc cha mẹ."
+    },
+    {
+      "id": 5,
+      "title": "Gia đình văn hóa 2.0",
+      "situation": "Khu dân cư muốn cập nhật tiêu chí “gia đình văn hóa” để tránh chạy theo thành tích và phản ánh đúng cuộc sống hiện đại.",
+      "mission": "Chọn bốn tiêu chí thiết thực nhất và giải thích vì sao.",
+      "rubric": ["Ấm no, hòa thuận, tiến bộ", "Khỏe mạnh, hạnh phúc", "Nghĩa vụ công dân", "Đoàn kết, tương trợ cộng đồng"],
+      "theory": "Tiêu chí gia đình văn hóa cần công bằng, dân chủ, thiết thực, đáp ứng nguyện vọng và tạo được sự đồng tình của nhân dân."
+    }
+  ],
+  "sorting": {
+    "categories": [
+      { "id": "reproduction", "name": "Tái sản xuất con người", "icon": "01" },
+      { "id": "education", "name": "Nuôi dưỡng & giáo dục", "icon": "02" },
+      { "id": "economy", "name": "Kinh tế & tiêu dùng", "icon": "03" },
+      { "id": "emotion", "name": "Tình cảm & tâm sinh lý", "icon": "04" }
+    ],
+    "cards": [
+      { "id": 1, "text": "Duy trì nòi giống và nguồn lao động", "category": "reproduction" },
+      { "id": 2, "text": "Chủ động lựa chọn thời điểm sinh con", "category": "reproduction" },
+      { "id": 3, "text": "Hình thành nhân cách và lối sống", "category": "education" },
+      { "id": 4, "text": "Kết hợp giáo dục gia đình với xã hội", "category": "education" },
+      { "id": 5, "text": "Sử dụng hợp lý thu nhập gia đình", "category": "economy" },
+      { "id": 6, "text": "Tổ chức tiêu dùng hàng hóa", "category": "economy" },
+      { "id": 7, "text": "Chăm sóc người già, trẻ em và người ốm", "category": "emotion" },
+      { "id": 8, "text": "Duy trì sự gắn bó giữa các thành viên", "category": "emotion" }
+    ]
+  }
+}

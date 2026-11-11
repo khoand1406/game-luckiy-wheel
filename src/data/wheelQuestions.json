@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "topic": "Khái niệm",
+    "question": "Theo Chương 7, gia đình được hiểu là gì?",
+    "answers": ["Một đơn vị kinh tế chỉ dựa trên sở hữu chung", "Một hình thức cộng đồng xã hội đặc biệt", "Một tổ chức hành chính cơ sở", "Một nhóm người cùng nơi cư trú"],
+    "correct": 1,
+    "explanation": "Gia đình là một hình thức cộng đồng xã hội đặc biệt, được hình thành và duy trì chủ yếu dựa trên hôn nhân, huyết thống, nuôi dưỡng cùng quyền và nghĩa vụ của các thành viên."
+  },
+  {
+    "id": 2,
+    "topic": "Khái niệm",
+    "question": "Hai mối quan hệ cơ bản tạo nên cơ sở hình thành gia đình là gì?",
+    "answers": ["Kinh tế và chính trị", "Cư trú và nghề nghiệp", "Hôn nhân và huyết thống", "Pháp luật và tôn giáo"],
+    "correct": 2,
+    "explanation": "Quan hệ hôn nhân giữa vợ và chồng, cùng quan hệ huyết thống giữa cha mẹ và con cái, là hai mối quan hệ cơ bản tạo nên gia đình."
+  },
+  {
+    "id": 3,
+    "topic": "Vị trí",
+    "question": "Nội dung nào không thuộc ba vị trí cơ bản của gia đình trong xã hội?",
+    "answers": ["Là tế bào của xã hội", "Là tổ ấm của mỗi thành viên", "Là cầu nối giữa cá nhân với xã hội", "Là cơ quan quản lý nhà nước ở cơ sở"],
+    "correct": 3,
+    "explanation": "Gia đình là tế bào của xã hội, là tổ ấm và là cầu nối giữa cá nhân với xã hội; gia đình không phải cơ quan quản lý nhà nước."
+  },
+  {
+    "id": 4,
+    "topic": "Chức năng",
+    "question": "Chức năng nào là đặc thù của gia đình mà không cộng đồng nào có thể thay thế?",
+    "answers": ["Tái sản xuất ra con người", "Tổ chức hoạt động chính trị", "Sản xuất hàng hóa quy mô lớn", "Ban hành chính sách xã hội"],
+    "correct": 0,
+    "explanation": "Tái sản xuất ra con người là chức năng đặc thù, đáp ứng nhu cầu duy trì nòi giống, nguồn lao động và sự trường tồn của xã hội."
+  },
+  {
+    "id": 5,
+    "topic": "Chức năng",
+    "question": "Đâu là một chức năng cơ bản của gia đình được nêu trong giáo trình?",
+    "answers": ["Xét xử các tranh chấp", "Nuôi dưỡng và giáo dục", "Quản lý hành chính", "Tổ chức quốc phòng"],
+    "correct": 1,
+    "explanation": "Nuôi dưỡng và giáo dục giúp hình thành nhân cách, đạo đức, lối sống; có ảnh hưởng lâu dài và toàn diện đến mỗi thành viên."
+  },
+  {
+    "id": 6,
+    "topic": "Cơ sở xây dựng",
+    "question": "Đâu là bốn cơ sở xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+    "answers": ["Kinh tế, quân sự, địa lý, dân số", "Kinh tế - xã hội; chính trị - xã hội; văn hóa; hôn nhân tiến bộ", "Pháp lý, tín ngưỡng, nghề nghiệp, cư trú", "Huyết thống, tài sản, địa vị, tuổi tác"],
+    "correct": 1,
+    "explanation": "Bốn cơ sở gồm: kinh tế - xã hội, chính trị - xã hội, văn hóa và chế độ hôn nhân tiến bộ."
+  },
+  {
+    "id": 7,
+    "topic": "Hôn nhân tiến bộ",
+    "question": "Chế độ hôn nhân tiến bộ gồm những nội dung cốt lõi nào?",
+    "answers": ["Tự nguyện; một vợ một chồng, bình đẳng; được bảo đảm pháp lý", "Do cha mẹ sắp đặt; ưu tiên nam giới", "Tự nguyện nhưng không cần thủ tục pháp lý", "Bình đẳng nhưng không cần trách nhiệm với con cái"],
+    "correct": 0,
+    "explanation": "Hôn nhân tiến bộ phải tự nguyện, một vợ một chồng, vợ chồng bình đẳng và được xã hội thừa nhận bằng thủ tục pháp lý."
+  },
+  {
+    "id": 8,
+    "topic": "Hôn nhân tiến bộ",
+    "question": "Thủ tục pháp lý trong hôn nhân có ý nghĩa chủ yếu gì?",
+    "answers": ["Hạn chế quyền tự do kết hôn", "Thay thế hoàn toàn tình yêu", "Thể hiện trách nhiệm và bảo vệ quyền chính đáng", "Chỉ để quản lý tài sản"],
+    "correct": 2,
+    "explanation": "Thủ tục pháp lý thể hiện sự thừa nhận xã hội, trách nhiệm giữa các bên và bảo vệ quyền tự do kết hôn, ly hôn chính đáng."
+  },
+  {
+    "id": 9,
+    "topic": "Biến đổi gia đình",
+    "question": "Xu hướng nổi bật về quy mô gia đình Việt Nam hiện nay là gì?",
+    "answers": ["Ngày càng mở rộng đến bốn thế hệ", "Không thay đổi", "Thu nhỏ, gia đình hạt nhân phổ biến hơn", "Chỉ còn gia đình đơn thân"],
+    "correct": 2,
+    "explanation": "Gia đình Việt Nam có xu hướng thu nhỏ; mô hình hạt nhân gồm cha mẹ và con cái ngày càng phổ biến ở cả đô thị và nông thôn."
+  },
+  {
+    "id": 10,
+    "topic": "Biến đổi gia đình",
+    "question": "Biến đổi tích cực nào gắn với gia đình Việt Nam hiện đại?",
+    "answers": ["Củng cố quyền lực gia trưởng", "Bình đẳng nam nữ và đời sống riêng tư được tôn trọng hơn", "Các thành viên ít giao tiếp hơn", "Giáo dục gia đình không còn cần thiết"],
+    "correct": 1,
+    "explanation": "Quy mô nhỏ hơn có thể hỗ trợ bình đẳng giới, tôn trọng đời sống riêng tư và giảm một số mâu thuẫn của cấu trúc gia đình truyền thống."
+  },
+  {
+    "id": 11,
+    "topic": "Phương hướng",
+    "question": "Cách ứng xử đúng với giá trị gia đình truyền thống là gì?",
+    "answers": ["Giữ nguyên mọi phong tục cũ", "Xóa bỏ toàn bộ truyền thống", "Kế thừa giá trị tốt đẹp, khắc phục hủ tục và tiếp thu tiến bộ", "Chỉ tiếp thu mô hình từ bên ngoài"],
+    "correct": 2,
+    "explanation": "Gia đình hiện đại cần phát huy giá trị truyền thống tốt đẹp, loại bỏ hạn chế và kết hợp những giá trị tiến bộ phù hợp thời đại."
+  },
+  {
+    "id": 12,
+    "topic": "Gia đình văn hóa",
+    "question": "“Gia đình văn hóa” được mô tả phù hợp nhất bởi nhóm tiêu chí nào?",
+    "answers": ["Giàu có, đông con, có địa vị", "Ấm no, hòa thuận, tiến bộ, khỏe mạnh, hạnh phúc; làm tốt nghĩa vụ công dân", "Sống tách biệt, ưu tiên lợi ích riêng", "Chỉ cần đạt thành tích kinh tế"],
+    "correct": 1,
+    "explanation": "Gia đình văn hóa hướng tới ấm no, hòa thuận, tiến bộ, khỏe mạnh, hạnh phúc; thực hiện nghĩa vụ công dân và tương trợ cộng đồng."
+  }
+]

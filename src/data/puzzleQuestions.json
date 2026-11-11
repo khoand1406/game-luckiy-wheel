@@ -1,0 +1,116 @@
+{
+  "secret": "GIADINHVIET",
+  "secretDisplay": "GIA ĐÌNH VIỆT",
+  "rows": [
+    {
+      "id": 1,
+      "answer": "GIA ĐÌNH",
+      "cells": "GIADINH",
+      "keyIndex": 0,
+      "question": "Theo Chương 7, đâu là một hình thức cộng đồng xã hội đặc biệt?",
+      "options": ["Gia đình", "Nhà trường", "Doanh nghiệp", "Tổ dân phố"],
+      "correct": 0,
+      "explanation": "Gia đình được hình thành và duy trì chủ yếu dựa trên hôn nhân, huyết thống, nuôi dưỡng cùng quyền và nghĩa vụ của các thành viên."
+    },
+    {
+      "id": 2,
+      "answer": "BÌNH ĐẲNG",
+      "cells": "BINHDANG",
+      "keyIndex": 1,
+      "question": "Nguyên tắc nào thể hiện quyền và nghĩa vụ ngang nhau giữa vợ và chồng?",
+      "options": ["Gia trưởng", "Bình đẳng", "Phân biệt", "Phụ thuộc"],
+      "correct": 1,
+      "explanation": "Vợ chồng bình đẳng là một nội dung cốt lõi của chế độ hôn nhân tiến bộ."
+    },
+    {
+      "id": 3,
+      "answer": "HẠNH PHÚC",
+      "cells": "HANHPHUC",
+      "keyIndex": 1,
+      "question": "Giá trị nào gắn trực tiếp với vai trò gia đình là tổ ấm của mỗi người?",
+      "options": ["Quyền lực", "Cạnh tranh", "Hạnh phúc", "Địa vị"],
+      "correct": 2,
+      "explanation": "Gia đình mang lại sự bình yên, hài hòa, hạnh phúc và động lực phát triển cho mỗi thành viên."
+    },
+    {
+      "id": 4,
+      "answer": "GIÁO DỤC",
+      "cells": "GIAODUC",
+      "keyIndex": 4,
+      "question": "Chức năng nào giúp hình thành nhân cách, đạo đức và lối sống của mỗi thành viên?",
+      "options": ["Tiêu dùng", "Giải trí", "Quản lý", "Giáo dục"],
+      "correct": 3,
+      "explanation": "Nuôi dưỡng và giáo dục có ảnh hưởng lâu dài, toàn diện đến cuộc đời mỗi thành viên."
+    },
+    {
+      "id": 5,
+      "answer": "TÌNH CẢM",
+      "cells": "TINHCAM",
+      "keyIndex": 1,
+      "question": "Gia đình là chỗ dựa nào cho mỗi cá nhân bên cạnh sự hỗ trợ vật chất?",
+      "options": ["Pháp lý", "Tình cảm", "Nghề nghiệp", "Hành chính"],
+      "correct": 1,
+      "explanation": "Thỏa mãn nhu cầu tâm sinh lý và duy trì tình cảm là chức năng thường xuyên của gia đình."
+    },
+    {
+      "id": 6,
+      "answer": "HÔN NHÂN",
+      "cells": "HONNHAN",
+      "keyIndex": 2,
+      "question": "Quan hệ giữa vợ và chồng được gọi là gì?",
+      "options": ["Huyết thống", "Nuôi dưỡng", "Hôn nhân", "Kinh tế"],
+      "correct": 2,
+      "explanation": "Hôn nhân là một trong hai quan hệ cơ bản tạo nên gia đình, bên cạnh quan hệ huyết thống."
+    },
+    {
+      "id": 7,
+      "answer": "HUYẾT THỐNG",
+      "cells": "HUYETTHONG",
+      "keyIndex": 0,
+      "question": "Quan hệ giữa những người cùng một dòng máu được gọi là gì?",
+      "options": ["Huyết thống", "Hôn nhân", "Cộng đồng", "Pháp luật"],
+      "correct": 0,
+      "explanation": "Quan hệ huyết thống nảy sinh từ hôn nhân và là yếu tố mạnh mẽ gắn kết các thành viên gia đình."
+    },
+    {
+      "id": 8,
+      "answer": "VĂN HÓA",
+      "cells": "VANHOA",
+      "keyIndex": 0,
+      "question": "Cơ sở nào giúp hình thành các giá trị, chuẩn mực mới và loại bỏ lối sống lạc hậu?",
+      "options": ["Quân sự", "Địa lý", "Dân số", "Văn hóa"],
+      "correct": 3,
+      "explanation": "Cơ sở văn hóa gắn với giáo dục, khoa học và công nghệ, góp phần điều chỉnh quan hệ gia đình trong thời kỳ mới."
+    },
+    {
+      "id": 9,
+      "answer": "KINH TẾ",
+      "cells": "KINHTE",
+      "keyIndex": 1,
+      "question": "Chức năng nào của gia đình gắn với sản xuất, nguồn thu nhập và tổ chức tiêu dùng?",
+      "options": ["Chính trị", "Kinh tế", "Đối ngoại", "Tín ngưỡng"],
+      "correct": 1,
+      "explanation": "Gia đình tham gia sản xuất, tái sản xuất sức lao động và tổ chức tiêu dùng để bảo đảm đời sống vật chất, tinh thần."
+    },
+    {
+      "id": 10,
+      "answer": "KẾ THỪA",
+      "cells": "KETHUA",
+      "keyIndex": 1,
+      "question": "Cần làm gì với những giá trị tốt đẹp của gia đình truyền thống Việt Nam?",
+      "options": ["Xóa bỏ", "Đóng kín", "Kế thừa", "Thay thế hoàn toàn"],
+      "correct": 2,
+      "explanation": "Xây dựng gia đình hiện đại cần kế thừa giá trị tốt đẹp, khắc phục hủ tục và tiếp thu tiến bộ phù hợp."
+    },
+    {
+      "id": 11,
+      "answer": "TỔ ẤM",
+      "cells": "TOAM",
+      "keyIndex": 0,
+      "question": "Hình ảnh nào diễn tả nơi mang lại sự bình yên và hạnh phúc cho mỗi thành viên?",
+      "options": ["Thị trường", "Tổ ấm", "Cơ quan", "Nhà máy"],
+      "correct": 1,
+      "explanation": "Gia đình là tổ ấm, môi trường tốt nhất để mỗi cá nhân được yêu thương, chăm sóc, trưởng thành và phát triển."
+    }
+  ]
+}

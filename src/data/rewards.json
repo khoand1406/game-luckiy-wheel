@@ -1,0 +1,10 @@
+[
+  { "id": 1, "label": "Bút highlight", "icon": "✍️", "color": "#ef654f" },
+  { "id": 2, "label": "Sổ tay mini", "icon": "📒", "color": "#e6aa38" },
+  { "id": 3, "label": "Sticker", "icon": "⭐", "color": "#2c6653" },
+  { "id": 4, "label": "Kẹo ngọt", "icon": "🍬", "color": "#4776e6" },
+  { "id": 5, "label": "Bookmark", "icon": "🔖", "color": "#8b5cf6" },
+  { "id": 6, "label": "Móc khóa", "icon": "🔑", "color": "#ec4899" },
+  { "id": 7, "label": "Quà bí mật", "icon": "🎁", "color": "#0f9f8f" },
+  { "id": 8, "label": "Thêm một lượt", "icon": "🔄", "color": "#f27d42" }
+]
